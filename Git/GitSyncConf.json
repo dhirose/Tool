@@ -1,0 +1,12 @@
+{
+    "# 周期実行フラグ（true:周期実行ON、false:周期実行OFF(単発実行)）": "コメント",
+    "CYCLE_EXECUTION": true,
+    "# 待機時間（時）": "コメント",
+    "SLEEP_TIME_HOURS": 1,
+    "# 待機時間（分）": "コメント",
+    "SLEEP_TIME_MINUTES": 0,
+    "# 待機時間（秒）": "コメント",
+    "SLEEP_TIME_SECONDS": 0,
+    "# git pull時に警告メッセージを表示させるフラグ（true:表示させる、false:表示させない）": "コメント",
+    "SHOW_WARN_FOR_GIT_PULL": true
+}
